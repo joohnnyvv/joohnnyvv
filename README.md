@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **private projects to better master the technologies that interest me.**
 
-- 🌱 I’m currently learning **REACT using a course on the udemy platform.**
+- 🌱 I'm currently looking for a job as a software developer.**
 
 - 📫 How to reach me **janekrembikowski@gmail.com**
 
