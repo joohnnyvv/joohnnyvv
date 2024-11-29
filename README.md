@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **janekrembikowski@gmail.com**
 
-- ⚡ Fun fact **I am a musician.**
+- ⚡ In spare time **I am a musician.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
