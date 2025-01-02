@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/joohnnyvv"><img src="https://api.daily.dev/devcards/v2/PqHA6SOa6SCE8hwzPJZbC.png?r=nc8&type=wide" width="652" alt="Jan Rembikowski's Dev Card"/></a>
+<a href="https://app.daily.dev/joohnnyvv"><img src="./devcard.png" width="356" alt="Jan's Dev Card"/></a>
 # 💫 About Me:
 - 🔭 I’m currently working on **private projects to better master the technologies that interest me.**<br><br>
 - 🌱 I'm currently looking for a **job as a software developer.**<br><br>
