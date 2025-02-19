@@ -1,8 +1,8 @@
 <a href="https://app.daily.dev/joohnnyvv"><img src="./devcard.png" width="356" alt="Jan's Dev Card"/></a>
 # 💫 About Me:
-- 🔭 I’m currently working on **private projects to better master the technologies that interest me.**<br><br>
-- 🌱 I'm currently looking for a **job as a software developer.**<br><br>
-- 📫 Reach me: **janekrembikowski@gmail.com**<br><br>
+- 🔭 I’m currently working on **graduate engineering project.**<br><br>
+- 🌱 I'm currently working for a company **as Angular developer.**<br><br>
+- 📫 Reach me: **jan.rembikowski.biz@gmail.com**<br><br>
 - ⚡ In spare time **I am a musician.**
 
 
